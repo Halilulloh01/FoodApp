@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Food App</string>
+    <string name="menyu">Menyu</string>
+    <string name="taom_qo_shish">Taom qo\'shish</string>
+    <string name="taom_nomi">Taom nomi</string>
+    <string name="kerakli_mahsulotlar">Kerakli mahsulotlar</string>
+    <string name="taom_tayyorlanish_tartibi">Taom tayyorlanish tartibi</string>
+    <string name="saqash">Saqash</string>
+    <string name="saqlash">Saqlash</string>
+    <string name="barcha_taomlar">Barcha taomlar</string>
+    <string name="palov">Palov</string>
+    <string name="_6_7_dona_kattaroq_sabzi_0_5_kg_go_sht_1_ta_piyoz_3_cho_mich_yog_dumba_700_gr_guruch_oilada_4_kishimiz_shiga_mo_ljallab_qildim_zira">6-7 dona kattaroq sabzi 0,5 kg go’sht 1 ta piyoz 3 cho’mich yog’ dumba 700 gr guruch. ( oilada 4 kishimiz shiga mo’ljallab qildim) zira</string>
+</resources>
